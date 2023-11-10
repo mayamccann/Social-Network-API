@@ -1,11 +1,20 @@
 # Social-Network-API
 NoSQL Challenge while using Express.js, MongoDB, and Mongoose ODM
 
+## Background
+
+MongoDB is known for its speed with large amounts of data and flexibility with unstructured data among social networks. The impact of this challenge is to understand how to build and structure the API because the foundation of applications is data.
+
+## Description
+
+NoSQL Challenge: Social Network API creates an API for an interactive social network web application. The users share thoughts, react to others, and friend lists are formed. This challenge focuses on Express.js, a MongoDB database, Mongoose ODM, and JavaScript date library or native JavaScript Date object to formulate timestamps.
+
 ## Usage and Technologies Used
 
 - MongoDB
 - Express.js
 - Mongoose ODM
+- Node.js
 - Insomnia
 - GitHub
 
