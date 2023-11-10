@@ -3,11 +3,10 @@ NoSQL Challenge while using Express.js, MongoDB, and Mongoose ODM
 
 ## Usage and Technologies Used
 
-- MVC paradigm
-- Sequelize
-- Handlebars.js
-- express-session npm package
-- Heroku
+- MongoDB
+- Express.js
+- Mongoose ODM
+- Insomnia
 - GitHub
 
 ## Credits
